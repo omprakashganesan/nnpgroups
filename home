@@ -1,0 +1,7 @@
+grocery-website/
+│
+├── index.html  # Homepage
+├── products.html  # Products page
+├── contact.html  # Contact page
+└── css/
+    └── style.css  # CSS file for styling
